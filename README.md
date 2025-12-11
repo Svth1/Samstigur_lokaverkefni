@@ -30,7 +30,7 @@ Samúel og Stígur. Lokaverkefni í VESM1VS05AU
 
 # Video
 
-[![Video](https://img.youtube.com/vi/beSclSQuF1o/0.jpg)](www.youtube.com)
+[![Video](https://img.youtube.com/vi/beSclSQuF1o/0.jpg)](www.youtube.com/watch?v=beSclSQuF1o)
 
 
 # Kóði
