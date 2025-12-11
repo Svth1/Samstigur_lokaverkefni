@@ -27,7 +27,7 @@ Samúel og Stígur. Lokaverkefni í VESM1VS05AU
 
 
 
-Kóði
+# Kóði
 import random
 import time
 from machine import Pin, PWM
