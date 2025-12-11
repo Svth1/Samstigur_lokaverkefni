@@ -14,7 +14,7 @@ Samúel og Stígur. Lokaverkefni í VESM1VS05AU
 
 
 # Borðspil
-<img src="Bordspil_slongu (1).svg" width="50%" height="50%">
+<img src="Bordspil_slongu2.svg" width="50%" height="50%">
 
 
 
