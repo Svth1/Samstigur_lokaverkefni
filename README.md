@@ -29,8 +29,9 @@ Samúel og Stígur. Lokaverkefni í VESM1VS05AU
 
 
 # Video
+[![Watch the video](https://img.youtube.com/vi/beSclSQuF1o/0.jpg)](https://www.youtube.com/watch?v=beSclSQuF1o)
 
-[![Video](https://img.youtube.com/vi/beSclSQuF1o/0.jpg)](www.youtube.com/watch?v=beSclSQuF1o)
+
 
 
 # Kóði
