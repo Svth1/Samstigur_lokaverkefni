@@ -30,7 +30,8 @@ Samúel og Stígur. Lokaverkefni í VESM1VS05AU
 
 # Video
 
-<video src="[YOUR_GH_ASSET_URL_HERE](https://youtu.be/beSclSQuF1o)" controls title="Lokaverkefni"></video>
+[![Video](https://img.youtube.com/vi/beSclSQuF1o/0.jpg)](www.youtube.com)
+
 
 # Kóði
 import random
